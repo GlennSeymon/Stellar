@@ -39,7 +39,7 @@
   <p align="center">
     Class of methods to interact with the Stellar crypto network
     <br />
-    <a href="https://github.com/GlennSeymon/LICENSE.md"><strong>View the license »</strong></a>
+    <a href="https://github.com/GlennSeymon/Stellar/blob/master/LICENSE.md"><strong>View the license »</strong></a>
     <br />
     <br />
   </p>
