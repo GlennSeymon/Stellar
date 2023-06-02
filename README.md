@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/GlennSeymon/Stellar/blob/master/images/StellarLogo.png">
-    <img src="images/Logo Small White" alt="Logo" width="80" height="80">
+  <a href="https://github.com/GlennSeymon/Stellar">
+    <img src="images/StellarLogo" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Stellar</h3>
